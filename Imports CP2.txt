@@ -1,0 +1,3 @@
+pip install pytesseract
+pip install pyttsx3
+pip install matplotlib opencv-python numpy notebook pyserial mediapipe
