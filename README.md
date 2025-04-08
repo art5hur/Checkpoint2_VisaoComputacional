@@ -6,5 +6,5 @@
 - Certifique-se de que foi instalado no caminho "C:\Program Files\Tesseract-OCR";
 - Adicione o arquivo "por.traineddata" a pasta "C:\Program Files\Tesseract-OCR\tessdata".
 
-# Instalação das bibliotecas:
+### Instalação das bibliotecas:
 - Copiar os comandos: "Imports CP2.txt".
