@@ -18,7 +18,9 @@
 
   #### *Repositórios e links utilizados:* ####
   https://github.com/tesseract-ocr/tesseract
-  https://gist.github.com/idcesares/7a0071080b73abb706436ec75c248073 |
+  
+  https://gist.github.com/idcesares/7a0071080b73abb706436ec75c248073
+  
   https://pypi.org/project/pyttsx3/
   
 ## Instalação:
