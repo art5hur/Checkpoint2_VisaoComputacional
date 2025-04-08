@@ -1,4 +1,4 @@
-## Checkpoint 02 - Visão Computacional
+## Checkpoint 02 - Aplicação de Visão Computacional
 ### Solução
 - Reconhecimento e leitura de textos para deficientes visuais.
 
@@ -8,7 +8,7 @@
 
 ### Pesquisa
 - Para realizar essa solução utilizamos a biblioteca Tesseract para a extração do texto das imagens.
-  O Tesseract OCR foi criado pela HP (Hewlett-Packard) entre 1985 e 1995, como um projeto de pesquisa interno e em 2005, o código foi liberado como open-source. Desde 2006,    passou a ser mantido e desenvolvido principalmente pelo Google, que o transformou em um dos melhores mecanismos de OCR gratuitos do mundo.
+  O Tesseract OCR foi criado pela HP (Hewlett-Packard) entre 1985 e 1995, como um projeto de pesquisa interno e em 2005, o código foi liberado como open-source. Desde 2006, passou a ser mantido e desenvolvido principalmente pelo Google, que o transformou em um dos melhores mecanismos de OCR gratuitos do mundo.
   Tesseract é uma ferramenta de OCR (Reconhecimento Óptico de Caracteres), usada para extrair texto de imagens ou PDFs escaneados. Ele transforma imagens em texto digital.
 
 - Para a leitura em voz alta utilizamos a biblioteca Pyttsx3. 
