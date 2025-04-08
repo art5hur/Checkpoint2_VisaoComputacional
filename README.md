@@ -36,7 +36,11 @@
 - Abrir o Anaconda Navigator
 - Executar o CMD.exe Prompt
 - Copiar e colar os comandos do arquivo txt: "Imports CP2.txt".
-
+  
+### Executar o código:
+- Abra o VS Code dentro do Anaconda
+- Abra os arquivos .py (LeitorTextoWebcam.py e LeitorTextoImagem.py) 
+- E por fim, execute o código.  
 
 ## Integrantes:
 - Arthur Miranda Santos - 93023
