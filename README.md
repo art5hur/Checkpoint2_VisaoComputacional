@@ -38,7 +38,7 @@
 ### Instalação das bibliotecas:
 - Abrir o Anaconda Navigator
 - Executar o CMD.exe Prompt
-- Copiar e colar os comandos do arquivo txt: "Imports CP2.txt".
+- Copiar e colar os comandos do arquivo txt: "pip install.txt".
   
 ### Executar o código:
 - Abra o VS Code dentro do Anaconda
