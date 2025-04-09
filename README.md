@@ -22,6 +22,13 @@
   https://gist.github.com/idcesares/7a0071080b73abb706436ec75c248073
   
   https://pypi.org/project/pyttsx3/
+
+## Dependências:
+- Anaconda Navigator
+- Tesseract OCR
+- Pyttsx3
+- Numpy
+- CV2
   
 ## Instalação:
 - Baixe o tesseract (tesseract-ocr-w64-setup-5.5.0.20241111);
