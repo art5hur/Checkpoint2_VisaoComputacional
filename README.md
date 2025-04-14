@@ -23,8 +23,13 @@
   
   https://pypi.org/project/pyttsx3/
 
+  https://awari.com.br/como-usar-python-e-opencv-para-processamento-de-imagens/
+
+  https://docs.opencv.org/4.x/d9/d61/tutorial_py_morphological_ops.html
+
 ## Dependências:
 - Anaconda Navigator
+- Visual Studio Code
 - Tesseract OCR
 - Pyttsx3
 - Numpy
